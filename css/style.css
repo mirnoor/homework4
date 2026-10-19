@@ -1,0 +1,182 @@
+/* All common Css Start  */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* All Common Css End */
+.baba{
+    height: 700px;
+    width: 1000px;
+    background: rgb(205, 225, 225);
+    margin: 0 auto;
+    position: relative;
+}
+.childone{
+    height: 165px;
+    width: 250px;
+    background: green;
+    position: absolute;
+    top: 0;
+    right: 0;
+    }
+    .potaka{
+        position: relative;
+    }
+    .rokto{
+        width: 100px;
+        height: 100px;
+        background: red;
+        position: absolute;
+        top: 82px;
+        left: 88%;
+        transform: translate(-50%, -50%);
+        border-radius: 50%;
+
+
+    }
+
+.childtwo{
+    height: 165px;
+    width: 250px;
+    background: rgb(248, 249, 249);
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    .one{
+        height: 55px; 
+        width: 250px;
+        background: rgba(255, 0, 0, 0.941);
+        position: absolute;
+        top: 0px;
+        left: 0%;
+    }
+    .two{
+        height: 55px; 
+        width: 250px;
+        background: rgba(255, 0, 0, 0.941);
+        position: absolute;
+       bottom: 0px;
+        left: 0%;
+    }
+    
+}
+.childthree{
+    height: 165px;
+    width: 250px;
+    background: rgb(1, 164, 205);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+ .one-1{
+        height: 30px; 
+        width: 250px;
+        background: yellow;
+        position: absolute;
+        top: 70px;
+        left: 0%;
+    }
+    .two-1{
+        height: 165px; 
+        width: 30px;
+        background: yellow;
+        position: absolute;
+       bottom: 0px;
+        left:60px;
+    }
+    
+
+.childfour{
+    height: 165px;
+    width: 250px;
+    background: rgb(253, 38, 0);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+ .one-2{
+        height: 50px; 
+        width: 105px;
+        background:white;
+        position: absolute;
+        top: 60px;
+        left: 29%;
+    }
+    .two-2{
+        height: 100px; 
+        width: 50px;
+        background: white;
+        position: absolute;
+       bottom: 30px;
+        left:100px;
+    }
+
+.childfive{
+    height: 165px;
+    width: 250px;
+    background: rgb(255, 38, 0);
+    position: absolute;
+    top: 0;
+    left: 50%;
+ transform: translateX(-50%);
+}
+
+ .one-3{
+        height: 50px; 
+        width: 50px;
+        background:rgb(255, 230, 0);
+        position: absolute;
+        clip-path: polygon(50% 0%, 63% 38%, 100% 38%, 69% 59%, 82% 100%, 50% 75%, 18% 100%, 31% 59%, 0% 38%, 37% 38%);
+        top: 50px;
+        left: 100px;
+ }
+
+.childsix{
+    height: 165px;
+    width: 250px;
+    background: rgb(255, 253, 253);
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+ }
+
+ .one-4{
+      height: 83px; 
+        width: 125px;
+        background: rgb(255, 9, 9);
+        position: absolute;
+       bottom: 0px;
+        left:0px;
+    }
+    .two-4{
+        height: 82px; 
+        width: 125px;
+        background:blue;
+        position: absolute;
+       bottom: 83px;
+        left:125px;
+    }
+
+     .three-4{
+        height: 50px; 
+        width: 50px;
+        background:rgb(51, 0, 255);
+        position: absolute;
+        clip-path: polygon(50% 0%, 63% 38%, 100% 38%, 69% 59%, 82% 100%, 50% 75%, 18% 100%, 31% 59%, 0% 38%, 37% 38%);
+        top: 15px;
+        left: 35px;
+ }
+
+  .four-4{
+        height: 50px; 
+        width: 50px;
+        background:rgb(255, 0, 0);
+        position: absolute;
+        clip-path: polygon(50% 0%, 63% 38%, 100% 38%, 69% 59%, 82% 100%, 50% 75%, 18% 100%, 31% 59%, 0% 38%, 37% 38%);
+        bottom: 15px;
+        right:35px ;
+ } 
